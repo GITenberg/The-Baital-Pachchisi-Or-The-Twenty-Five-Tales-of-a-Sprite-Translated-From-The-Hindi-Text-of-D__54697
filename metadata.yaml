@@ -1,0 +1,35 @@
+_repo: The-Baital-Pachchisi-Or-The-Twenty-Five-Tales-of-a-Sprite-Translated-From-The-Hindi-Text-of-D__54697
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Forbes, Duncan
+    birthdate: 1798
+    deathdate: 1868
+    gutenberg_agent_id: '31675'
+    url: http://www.gutenberg.org/2009/agents/31675
+  - agent_name: Platts, John
+    aliases:
+    - Platts, J. (John)
+    - Platts, I.
+    - Platt, I.
+    birthdate: 1775
+    deathdate: 1837
+    gutenberg_agent_id: '41465'
+    url: http://www.gutenberg.org/2009/agents/41465
+description: ''
+gutenberg_issued: '2017-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Baitâl Pachchisi
+
+  Or, The Twenty-Five Tales of a Sprite; Translated From The
+
+  Hindi Text of Dr. Duncan Forbes'
+url: http://www.gutenberg.org/ebooks/54697
